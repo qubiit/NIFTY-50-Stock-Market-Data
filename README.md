@@ -14,8 +14,8 @@ Each file represents a year and has the following columns
 - low - lowest value of the stocks on that day
 - close - closing value of the stocks on that day
 - previous_close - previous day closing value of the stocks
-- volume - total traded volume
-- turnover - total traded value
+- volume - total traded volume of the stocks on that day
+- turnover - total traded value of the stocks on that day
 
 ### Update Frequency
 Since new stock market data is generated and made available every day, in order to have the latest and most useful information, the dataset will be updated once a month.
