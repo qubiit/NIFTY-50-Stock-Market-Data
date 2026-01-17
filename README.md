@@ -8,6 +8,7 @@ The data is the price history and trading volumes of the fifty stocks in the NIF
 
 Each file represents a year and has the following columns
 - timestamp - date of observation
+- symbol - stock ticker symbol
 - open - open value of the stocks on that day
 - high - highest value of the stocks on that day
 - low - lowest value of the stocks on that day
