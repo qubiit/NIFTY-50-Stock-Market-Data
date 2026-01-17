@@ -27,4 +27,4 @@ This data was extracted from daily report of cm_bhavcopy and cm_udiff_bhavcopy p
 Various machine learning techniques can be applied and explored to stock market data, especially for trading algorithms and learning time series models.
 
 ### Important Note
-Nifty 50 index member stocks list is updated from time to time. The data was generated at 5 Jan, 2026 according to the index.
+Nifty 50 member list is updated from time to time. The data was generated at 5 Jan, 2026 according to the index.
